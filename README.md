@@ -10,6 +10,7 @@ An example code is provided for use under examples folder
 
 Changes made:
 AdafruitIO_ESP8266.h
+
 Changing the definition of AdafruitIO_WiFi from 
 
 AdafruitIO_ESP8266::AdafruitIO_ESP8266(const char *user, const char *key, const char *ssid,
